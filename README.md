@@ -6,6 +6,10 @@ This project focuses on analyzing hospitality revenue and operational performanc
 The objective is to convert raw hospitality data into clear and actionable business insights through effective visualization.
 
 ---
+## Dashboard
+![Hospitality Revenue Analysis Dashboard](https://github.com/user-attachments/assets/7662f1fb-7d60-4c45-9235-43a874b698e7)
+
+---
 
 ## 🎯 Objectives
 - Evaluate overall revenue performance  
@@ -66,10 +70,7 @@ This dashboard enables stakeholders to:
 - Advanced drill-through reporting  
 
 ---
-## Dashboard
-![Hospitality Revenue Analysis Dashboard](https://github.com/user-attachments/assets/7662f1fb-7d60-4c45-9235-43a874b698e7)
 
----
 ## 👩‍💻 Author
 Shubham Ghodake  
 Data Analyst | Power BI Enthusiast
